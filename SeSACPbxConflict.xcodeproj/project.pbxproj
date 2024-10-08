@@ -51,7 +51,7 @@
 		76C9125B2CB4CCE9009A9958 /* SeSACPbxConflict */ = {
 			isa = PBXGroup;
 			children = (
-				76C9126A2CB4D047009A9958 /* Den */,
+				76C9126B2CB4D1AC009A9958 /* Bran */,
 				76C912622CB4CCEA009A9958 /* Preview Content */,
 			);
 			path = SeSACPbxConflict;
@@ -65,14 +65,15 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		76C9126A2CB4D047009A9958 /* Den */ = {
+		76C9126B2CB4D1AC009A9958 /* Bran */ = {
 			isa = PBXGroup;
 			children = (
 				76C9125C2CB4CCE9009A9958 /* SeSACPbxConflictApp.swift */,
 				76C9125E2CB4CCE9009A9958 /* ContentView.swift */,
 				76C912602CB4CCEA009A9958 /* Assets.xcassets */,
 			);
-			path = Den;
+
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
